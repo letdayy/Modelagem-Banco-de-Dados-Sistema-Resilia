@@ -12,6 +12,9 @@
 
 <p><strong>- BrModelo:</strong> para funcionar é necessário ter instalado o Java e clonar esse repositório https://github.com/chcandido/brModelo</p>
 
+<p><strong>- Xampp (PHPMyAdmin):</strong> para codar o requisito extra que é o arquivo feito em SQL. </p>
+
+
 <h2>Perguntas sobre o modelo:</h2>
 
 <h3>⇨ Existem outras entidades além dessas três?</h3>
