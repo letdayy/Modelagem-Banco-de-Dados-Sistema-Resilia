@@ -11,5 +11,14 @@
 <h2>Perguntas sobre o modelo:</h2>
 
 <h3>⇨ Existem outras entidades além dessas três?</h3>
+<p>Sim, as entidades professor e endereço foram necessárias serem criadas para fazer o banco de dados e os relacionamentos.</p>
+
 <h3>⇨ Quais são os principais campos e tipos?</h3>
+<p>Os principais campos são o ID das entidades, nome, cpf, forma de contato (email, telefone) e os tipos são a chave primária e a chave estrangeira.
+
 <h3>⇨ Como essas entidades estão relacionadas?</h3>
+
+<p>um para muitos, um para um e 0 para muitos</p>
+
+
+<p align="center">Feito por Letícia Dayane</p>
