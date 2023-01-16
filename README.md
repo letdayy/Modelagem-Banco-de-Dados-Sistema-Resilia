@@ -2,7 +2,11 @@
 
 <h5 align='center'>Projeto individual do módulo 4 (Sistema Resilia) que tem por objetivo a criação de uma modelagem de um banco de dados para armazenar dados como alunos, turmas e cursos. </h5>
 
+<h3>Modelagem Sistema Resilia</h3>
 <img src="modelagem-resilia.png">
+
+<h3>Formato Lógico Modelagem</h3>
+<img src="modelagem-logico-resilia.png">
 
 <h2>Ferramentas utilizadas</h2>
 
